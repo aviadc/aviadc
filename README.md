@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# replace contents according to you.
+# my name is Aviad and I'm a Full Stack Developer
 <table>
   <tr>
     <td valign="center">
