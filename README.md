@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ,  my name is Aviad Cohen
 
 <!--
 **aviadc/aviadc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# my name is Aviad and I'm a Full Stack Developer
+#I'm a Full Stack Developer
 <table>
   <tr>
     <td valign="center">
